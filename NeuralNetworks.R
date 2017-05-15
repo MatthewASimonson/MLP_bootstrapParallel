@@ -56,7 +56,7 @@ testDF <- DataFrame[-ind,]
 
 # Configure the neural network:
 # Layers 10-10-10-1
-# number of hidden layers = 4
+# number of hidden layers = 3
 # input layer has 10 units
 # Formula:
 # medv ~ crim + zn + indus + chas + nox + rm + age + dis +rad + tax + ptratio + Lstat
